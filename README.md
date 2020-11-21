@@ -1,16 +1,24 @@
-### Hi there 👋
+- 🥇 Product Hunt Product of The Day Winner with [Code of Conduct Generator](https://www.producthunt.com/posts/the-code-of-conduct-generator)
+- 😸 Product Hunt Golden Kitty nominee in Health&Fitness with [Sleeep](https://www.producthunt.com/posts/sleeep)
+- ✒️ dev.to Top 7 author — [read my top article](https://dev.to/mvoloskov/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google-336a)
+- 💼 4000+ connections on LinkedIn — [visit my profile](https://linkedin.com/in/mvoloskov)
+- 👩‍🎤 [PiterCSS](https://pitercss.com) and [WSD](https://wsd.events) speaker
+- 🤓 Got certificates from Microsoft (x1), Maryland (x1), Stanford (x3), Berkeley (x2) and others
 
-<!--
-**mvoloskov/mvoloskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🤝 Free help!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I now help people to find a job. My help is free. I'll give feedback and recommendations on your CV, we'll build a new CV together if you don't have one or want to improve yours, I then post your CV on my LinkedIn.
+
+I earn no money from recruiters or companies for doing this.
+
+All you have to do is ⭐ [DM me on Telegram](https://t.me/mvoloskov).
+
+
+### 🔗 Links
+
+- 💬 [Telegram](https://t.me/mvoloskov)
+- 📮 [Email — hello@miloslav.website](mailto:hello@miloslav.website)
+- 🌝 [Personal website — miloslav.website](https://miloslav.website)
+- 📬 [Newsletter (no spam or ads ever)](https://miloslav.website/newsletter)
+- 📄 [CV](https://docs.google.com/document/d/1misybBtgL7z_nema83AE6C6IFxZ5_qaJHG3ihosWfJY/edit#)
