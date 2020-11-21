@@ -6,7 +6,7 @@
 - 👩‍🎤 [PiterCSS](https://pitercss.com) and [WSD](https://wsd.events) speaker
 - 🤓 Got certificates from Microsoft (x1), Maryland (x1), Stanford (x3), Berkeley (x2) and others
 
-### 🤝 Free help!
+### 🤝 Good news!
 
 I now help people to find a job. My help is free. I'll give feedback and recommendations on your CV, we'll build a new CV together if you don't have one or want to improve yours, I then post your CV on my LinkedIn.
 
