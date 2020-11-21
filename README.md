@@ -6,7 +6,6 @@
 - 👩‍🎤 [PiterCSS](https://pitercss.com) and [WSD](https://wsd.events) speaker
 - 🤓 Got certificates from Microsoft (x1), Maryland (x1), Stanford (x3), Berkeley (x2) and others
 
-
 ### 🤝 Free help!
 
 I now help people to find a job. My help is free. I'll give feedback and recommendations on your CV, we'll build a new CV together if you don't have one or want to improve yours, I then post your CV on my LinkedIn.
@@ -18,8 +17,8 @@ All you have to do is ⭐ [DM me on Telegram](https://t.me/mvoloskov).
 
 ### 🔗 Links
 
+- 📄 [CV](https://docs.google.com/document/d/1misybBtgL7z_nema83AE6C6IFxZ5_qaJHG3ihosWfJY/edit#)
 - 💬 [Telegram](https://t.me/mvoloskov)
 - 📮 [Email — hello@miloslav.website](mailto:hello@miloslav.website)
-- 🌝 [Personal website — miloslav.website](https://miloslav.website)
 - 📬 [Newsletter (no spam or ads ever)](https://miloslav.website/newsletter)
-- 📄 [CV](https://docs.google.com/document/d/1misybBtgL7z_nema83AE6C6IFxZ5_qaJHG3ihosWfJY/edit#)
+- 🌝 [Personal website — miloslav.website](https://miloslav.website)
