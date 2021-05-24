@@ -8,7 +8,7 @@
 - 🤓 Got certificates from Microsoft (x1), Maryland (x1), Stanford (x3), Berkeley (x2) and others
 
 ### 🔗 Links
-- 💵 [Support me](https://www.buymeacoffee.com/mvoloskov) (consulting, audit and etc. is available)
+- 💵 [Support me](https://www.buymeacoffee.com/mvoloskov)
 - 📄 [CV](https://docs.google.com/document/d/1misybBtgL7z_nema83AE6C6IFxZ5_qaJHG3ihosWfJY/edit#)
 - 💬 [Telegram](https://t.me/mvoloskov)
 - 📮 [Email — hello@miloslav.website](mailto:hello@miloslav.website)
