@@ -2,7 +2,7 @@
 
 - 🥇 Product Hunt Product of The Day Winner with [Code of Conduct Generator](https://www.producthunt.com/posts/the-code-of-conduct-generator)
 - 😸 Product Hunt Golden Kitty nominee in Health&Fitness with [Sleeep](https://www.producthunt.com/posts/sleeep)
-- ✒️ dev.to moderator and Top 7 author — [read my top article](https://dev.to/mvoloskov/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google-336a)
+- ✒️ [Dev.to](https://dev.to) moderator and Top 7 author — [read my top article](https://dev.to/mvoloskov/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google-336a)
 - 📈 Created a [dockerfile](https://hub.docker.com/r/bizongroup/alpine-curl-bash) that got more than 100.000 pulls
 - 💼 4000+ connections on LinkedIn — [visit my profile](https://linkedin.com/in/mvoloskov)
 - 👩‍🎤 [PiterCSS](https://pitercss.com) and [WSD](https://wsd.events) speaker
