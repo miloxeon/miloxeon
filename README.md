@@ -15,7 +15,7 @@
 - 💬 [Telegram](https://t.me/mvoloskov)
 - 📮 [Email — hello@miloslav.website](mailto:hello@miloslav.website)
 - 🌝 [Personal website — miloslav.website](https://miloslav.website)
-- 🌃 [Tumblr (photos)](https://mvoloskov.tumblr.com)
+- 🌃 [Tumblr (photography)](https://mvoloskov.tumblr.com)
 - 💝 [Support me](https://www.buymeacoffee.com/mvoloskov)
 
 ![mvoloskov's Github Stats](https://github-readme-stats.vercel.app/api?username=mvoloskov&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,537895,09203f&hide_border=true&include_all_commits=true&count_private=true&custom_title=Stats)
