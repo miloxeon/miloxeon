@@ -1,4 +1,5 @@
 ### 🦋 About 
+
 - 🥇 Product Hunt Product of The Day Winner with [Code of Conduct Generator](https://www.producthunt.com/posts/the-code-of-conduct-generator)
 - 😸 Product Hunt Golden Kitty nominee in Health&Fitness with [Sleeep](https://www.producthunt.com/posts/sleeep)
 - ✒️ dev.to moderator and Top 7 author — [read my top article](https://dev.to/mvoloskov/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google-336a)
@@ -8,12 +9,14 @@
 - 🤓 Got certificates from Microsoft<sup>(x1)</sup>, Maryland<sup>(x1)</sup>, Stanford<sup>(x3)</sup>, Berkeley<sup>(x2)</sup> and others
 
 ### 🔗 Links
-- 💵 [Support me](https://www.buymeacoffee.com/mvoloskov)
+
 - 📄 [CV](https://docs.google.com/document/d/1misybBtgL7z_nema83AE6C6IFxZ5_qaJHG3ihosWfJY/edit#)
+- 🎒 [NPM](https://www.npmjs.com/~mvoloskov)
 - 💬 [Telegram](https://t.me/mvoloskov)
 - 📮 [Email — hello@miloslav.website](mailto:hello@miloslav.website)
 - 🌝 [Personal website — miloslav.website](https://miloslav.website)
 - 🌃 [Tumblr (photos)](https://mvoloskov.tumblr.com)
+- 💝 [Support me](https://www.buymeacoffee.com/mvoloskov)
 
 ![mvoloskov's Github Stats](https://github-readme-stats.vercel.app/api?username=mvoloskov&show_icons=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,537895,09203f&hide_border=true&include_all_commits=true&count_private=true&custom_title=Stats)
 
