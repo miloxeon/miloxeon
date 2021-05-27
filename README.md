@@ -6,7 +6,7 @@
 - 📈 Created a [dockerfile](https://hub.docker.com/r/bizongroup/alpine-curl-bash) that got more than 100.000 pulls
 - 💼 4000+ connections on LinkedIn — [visit my profile](https://linkedin.com/in/mvoloskov)
 - 👩‍🎤 [PiterCSS](https://pitercss.com) and [WSD](https://wsd.events) speaker
-- 🤓 Got certificates from Microsoft<sup>(x1)</sup>, Calarts<sup>(x2)</sup>б Maryland<sup>(x1)</sup>, Stanford<sup>(x3)</sup>, Berkeley<sup>(x2)</sup> and others
+- 🤓 Got certificates from Microsoft<sup>(x1)</sup>, Calarts<sup>(x2)</sup>, Maryland<sup>(x1)</sup>, Stanford<sup>(x3)</sup>, Berkeley<sup>(x2)</sup> and others
 
 ### 🔗 Links
 
