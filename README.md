@@ -11,7 +11,7 @@
 ### 🔗 Links
 
 - 📄 [CV](https://docs.google.com/document/d/1misybBtgL7z_nema83AE6C6IFxZ5_qaJHG3ihosWfJY/edit#)
-- 🎒 [NPM](https://www.npmjs.com/~mvoloskov)
+- 🎒 [NPM](https://www.npmjs.com/~mvoloskov) — mostly performant, framework-agnostic UI improvement tools
 - 💬 [Telegram](https://t.me/mvoloskov)
 - 📮 [Email — hello@miloslav.website](mailto:hello@miloslav.website)
 - 🌝 [Personal website — miloslav.website](https://miloslav.website)
