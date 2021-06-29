@@ -5,7 +5,7 @@
 - ✍️ [Scalable architecture without magic (and how to build it if you’re not Google)](https://dev.to/mvoloskov/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google-336a) — Dev.to Must-Read, Dev.to Top 7 Authors Badge, [Hashnode Must-Read](https://twitter.com/mvoloskov/status/1403273283278192641). Also published in China by InfoQ
 - 📈 [alpine-curl-bash](https://hub.docker.com/r/bizongroup/alpine-curl-bash) — 500,000+ pulls on Dockerhub
 - 💼 Worked for [Uploadcare](https://uploadcare.com) (curator, product owner), [Studybay USA](https://studybay.com) (tech evangelist) and [Openland](https://openland.com) (Frontend developer)
-- I [tried to build a website generator](https://youtu.be/z91OIoCFLK0), [failed miserably](https://miloslav.website/thepresence) because of depression and wrong treatment and [gave an interview about it](https://www.failory.com/interview/thepresence)
+- I [tried to build a startup](https://youtu.be/z91OIoCFLK0), [failed miserably](https://miloslav.website/thepresence) because of depression and wrong treatment and [gave an interview about it](https://www.failory.com/interview/thepresence)
 - 👩‍🎤 [PiterCSS](https://pitercss.com) and [WSD](https://wsd.events) speaker
 - 🤓 Got certificates from Microsoft<sup>(x1)</sup>, Calarts<sup>(x2)</sup>, Maryland<sup>(x1)</sup>, Stanford<sup>(x3)</sup>, Berkeley<sup>(x2)</sup> and others
 
