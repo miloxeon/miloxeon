@@ -1,6 +1,6 @@
 ### 🦋 About 
-
-- 🥇 [The Code of Conduct Generator](https://www.producthunt.com/posts/the-code-of-conduct-generator) — Product of the Day Award
+- 🧠 [Pixelhunter](https://pixelhunter.io) — Product of the Day #3, included in Product Hunt newsletter, got media coverage from Matt Navarra, Fai Informazione 🇮🇹, Justgeek 🇫🇷, Getrevue.co Newsletter, Rusbase 🇷🇺, vc.ru 🇷🇺, free.com.tw 🇹🇼. 
+- 🥇 [The Code of Conduct Generator](https://www.producthunt.com/posts/the-code-of-conduct-generator) — Product of the Day #1
 - 😸 [Sleeep](https://www.producthunt.com/posts/sleeep) (sleep schedule adjuster & fixer) — Golden Kitty nomination in Health&Fitness
 - ✍️ [Scalable architecture without magic (and how to build it if you’re not Google)](https://dev.to/mvoloskov/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google-336a) — Dev.to Must-Read, Dev.to Top 7 Authors Badge, [Hashnode Must-Read](https://twitter.com/mvoloskov/status/1403273283278192641). Also published in China by InfoQ
 - 📈 [alpine-curl-bash](https://hub.docker.com/r/bizongroup/alpine-curl-bash) — 500,000+ pulls on Dockerhub
