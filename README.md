@@ -1,4 +1,5 @@
 ### 🦋 About 
+- 👨‍💻 CTO @ [Feedsauce](https://feedsauce.com)
 - 🧠 [Pixelhunter](https://pixelhunter.io) — Product of the Day #3, included in Product Hunt newsletter, got media coverage from Matt Navarra, Fai Informazione 🇮🇹, Justgeek 🇫🇷, Getrevue.co newsletter, Rusbase 🇷🇺, vc.ru 🇷🇺, free.com.tw 🇹🇼
 - 🥇 [The Code of Conduct Generator](https://www.producthunt.com/posts/the-code-of-conduct-generator) — Product of the Day #1
 - 😸 [Sleeep](https://www.producthunt.com/posts/sleeep) (sleep schedule adjuster & fixer) — Golden Kitty nomination in Health&Fitness
