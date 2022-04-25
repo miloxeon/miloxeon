@@ -1,4 +1,4 @@
-### 🎸 Check out [the complete list of things I ever did](https://uyouthe.notion.site/uyouthe/dc3958c3b0d04e03be8c12c0eb3ce1a3?v=e46ca61f82ba48c19ed67bbe99457cff)!
+### 🎸 Check out [the complete list of things I ever made](https://uyouthe.notion.site/uyouthe/dc3958c3b0d04e03be8c12c0eb3ce1a3?v=e46ca61f82ba48c19ed67bbe99457cff)!
 
 ### 🦋 About 
 - 👨‍💻 CTO @ [Feedsauce](https://feedsauce.com), previously Tech Evangelist @ [Studybay USA](https://studybay.com)
